@@ -1,7 +1,6 @@
 <h1>Değişkenler</h1>
 String yani metinleri " sembolünü kullanarak tanımlarız. Buarada tüm değişken isimleri üyük harf yada rakamla başlamaz ve türkçe karakter kullanılmaz.
 Örnek: `string = "Metin"`
-
 Rakamları yani integer ları tanımlarken özel sembol kullanmayız.
 Örnek: `integer = 9`
 
