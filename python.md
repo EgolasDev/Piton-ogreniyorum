@@ -60,10 +60,10 @@ print("Bu günki durumunuz: " + text)
 <h1>Listeler</h1>
 Listeler javascript'te array olarak geçiyordur. Peki nedir bu listeler gelin bir bakalım;<br>
 
-`list = ["ilk","ikinci","ucuncu"]`<br>
+`list = ["ilk","ikinci","ucuncu"]`
 
 ilk, ikinci ve ucuncu'yü list değişkeni içine listeledik peki bunları nasıl çağıracağız?<br>
 
-`print(list[0])`<br>
+`print(list[0])`
 
 0 yerine listedeki almak istediğiniz verinin indexini yazmalısınız. Index almayı bilmeyenler için en baştaki veriden başlayarak 0,1,2 diye devam eder.
