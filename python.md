@@ -42,7 +42,7 @@ Lower fonksiyonu metnin tüm karakterlerini küçük harfe çevirir. Upper ise b
 ```js
 text = "Hi world!"
 print(text.lower())
-
+```
 Ek bilgi: capitalize() fonksiyonu ise İlk harfi büyük harfe çevirir.
 <h1>Replace</h1>
 Replace fonksiyonu metindeki karakterleri değiştirir.
