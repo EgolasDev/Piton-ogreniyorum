@@ -8,4 +8,4 @@
 print("Egolas adamdır gerisi yalannn")
 ```
 
-[Dersler](https://github.com/EgolasDev/python/blob/master/python.md)
+[Dersler](https://github.com/EgolasDev/Piton-ogreniyorum.mp4/blob/main/python.md)
