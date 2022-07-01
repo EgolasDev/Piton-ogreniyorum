@@ -1,5 +1,5 @@
 # Dersler
-- [Değişkenler](#degiskenler)
+- [Değişkenler](#değişkenler)
 - [Substring](#substring)
 - [Len Fonksiyonu](#len-fonksiyonu)
 - [Lower ve Upper](#lower-ve-upper)
