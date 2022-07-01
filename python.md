@@ -7,6 +7,7 @@
 - [Split ve Strip](#split-ve-sprit)
 - [Input](#input)
 - [Listeler](#listeler)
+- [2D Listeler](#2d-listeler)
 
 # Degiskenler
 
