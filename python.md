@@ -113,6 +113,17 @@ ilk, ikinci ve ucuncu'yü list değişkeni içine listeledik peki bunları nası
 `print(list[0])`
 0 yerine listedeki almak istediğiniz verinin indexini yazmalısınız. Index almayı bilmeyenler için en baştaki veriden başlayarak 0,1,2 diye devam eder.
 
-# Sonraki Ders..
+# 2D Listeler
 
-Yakında
+2D Listeler adında olduğu gibi listelerin çoklu halidir. Öncelikler örnek bir koda bakalım;
+
+```js
+let yemek = ["pizza","hamburger","tavukdoner"]
+let icecek = ["ayran","gazoz","cay"]
+let 2dlist = [yemek, icecek]
+
+print(2dlist)
+```
+Bu kodun çıktısı şu şekilde olucaktır
+```js
+[['pizza', 'hamburger', 'tavukdoner'], ['ayran', 'gazoz', 'cay']]
