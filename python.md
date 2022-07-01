@@ -58,7 +58,7 @@ print(text.lower())
 ```
 Ek bilgi: capitalize() fonksiyonu ise İlk harfi büyük harfe çevirir.
 
-## Replace
+# Replace
 Replace fonksiyonu metindeki karakterleri değiştirir.
 Örnek:
 
