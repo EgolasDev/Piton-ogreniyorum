@@ -1,5 +1,5 @@
 # Dersler
-- [Değişkenler](#degiskenler)
+- [Değişkenler](#de%C4%9Fi%C5%9Fkenler)
 - [Substring](#substring)
 - [Len Fonksiyonu](#len-fonksiyonu)
 - [Lower ve Upper](#lower-ve-upper)
@@ -9,7 +9,7 @@
 - [Listeler](#listeler)
 - [2D Listeler](#2d-listeler)
 
-# Degiskenler
+# Değişkenler
 
 String yani metinleri " sembolünü kullanarak tanımlarız. Buarada tüm değişken isimleri üyük harf yada rakamla başlamaz ve türkçe karakter kullanılmaz.
 Örnek: `string = "Metin"`
