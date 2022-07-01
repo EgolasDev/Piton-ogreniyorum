@@ -1,4 +1,12 @@
-[Tıkla](#replace)
+# Dersler
+- [Değişkenler](#değişkenler)
+- [Substring](#substring)
+- [Len Fonksiyonu](#len-fonksiyonu)
+- [Lower ve Upper](#lower-ve-upper)
+- [Replace](#replace)
+- [Split ve Strip](#split-ve-sprit)
+- [Input](#input)
+- [Listeler](#listeler)
 
 # Değişkenler
 
