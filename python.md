@@ -120,9 +120,9 @@ ilk, ikinci ve ucuncu'yü list değişkeni içine listeledik peki bunları nası
 ```js
 let yemek = ["pizza","hamburger","tavukdoner"]
 let icecek = ["ayran","gazoz","cay"]
-let 2dlist = [yemek, icecek]
+let ikilist = [yemek, icecek]
 
-print(2dlist)
+print(ikilist)
 ```
 Bu kodun çıktısı şu şekilde olucaktır
 ```js
