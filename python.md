@@ -96,3 +96,6 @@ ilk, ikinci ve ucuncu'yü list değişkeni içine listeledik peki bunları nası
 
 `print(list[0])`
 0 yerine listedeki almak istediğiniz verinin indexini yazmalısınız. Index almayı bilmeyenler için en baştaki veriden başlayarak 0,1,2 diye devam eder.
+<h1>Sonraki Ders..</h1>
+
+Yakında
