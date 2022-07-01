@@ -2,7 +2,16 @@
 
 ### Egolas Hocanın Öğrencileri
 - Redent
-<hr>
+- Egolas
+
+### Ders Fiyatları
+| Süre | Fiyat |
+| -------- | -------- |
+| Haftalık | 13 ₺ |
+| Aylık | 27 ₺ |
+| Yıllık | 87 ₺ |
+
+---
 
 ```js
 print("Egolas adamdır gerisi yalandır")
