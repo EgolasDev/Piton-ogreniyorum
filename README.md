@@ -5,7 +5,7 @@
 <hr>
 
 ```js
-print("Egolas adamdır gerisi yalannn")
+print("Egolas adamdır gerisi yalandır")
 ```
 
-[Dersler](https://github.com/EgolasDev/Piton-ogreniyorum.mp4/blob/main/python.md)
+[Dersleri görmek için tıklayın.](https://github.com/EgolasDev/Piton-ogreniyorum.mp4/blob/main/python.md)
