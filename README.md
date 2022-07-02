@@ -5,11 +5,11 @@
 - Egolas
 
 ### Ders Fiyatları
-| Süre | Fiyat |
-| -------- | -------- |
-| Haftalık | 13 ₺ |
-| Aylık | 27 ₺ |
-| Yıllık | 87 ₺ |
+| Süre | Fiyat | Müşteri Memnuniyeti|
+| -------- | -------- | -------- |
+| Haftalık | 13 ₺ | İyi |
+| Aylık | 27 ₺ | Çok iyi |
+| Yıllık | 87 ₺ | Mükemmel |
 
 ---
 
