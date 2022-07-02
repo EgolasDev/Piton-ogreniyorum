@@ -1,5 +1,7 @@
 # Egolas abimizin özenle anlattığı PYTHON dersine hoşgeldiniz.
 
+![](https://github.com/redentdev/redentdev/blob/main/icons/python.svg)
+
 ### Egolas Hocanın Öğrencileri
 - Redent
 - Egolas
