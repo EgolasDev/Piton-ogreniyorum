@@ -6,8 +6,8 @@
 - [Replace](#replace)
 - [Split ve Strip](#split-ve-sprit)
 - [Input](#input)
-- [Listeler](#listeler)
-- [2D Listeler](#2d-listeler)
+- [Listeler](#array)
+- [2D Listeler](#2d-array)
 
 # Değişkenler
 
