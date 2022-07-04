@@ -6,8 +6,7 @@
 - [Replace](#replace)
 - [Split ve Strip](#split-ve-sprit)
 - [Input](#input)
-- [Listeler](#array)
-- [2D Listeler](#2d-array)
+- [Listeler](#listeler)
 
 # Değişkenler
 
@@ -104,9 +103,10 @@ Fonksiyonumuz bu kadardı.
 text = input("Bu gün nasılsınız? ")
 print("Bu günki durumunuz: " + text)
 ```
+# Listeler
 
 # Array
-Listeler javascript'te array olarak geçiyordur. Peki nedir bu listeler gelin bir bakalım;<br>
+javascript'te array olarak geçiyordur. Peki nedir bu array gelin bir bakalım;<br>
 
 `array = ["ilk","ikinci","ucuncu"]`
 ilk, ikinci ve ucuncu'yü list değişkeni içine listeledik peki bunları nasıl çağıracağız?<br>
@@ -122,7 +122,7 @@ En sondan başlayarak veri ekler
 
 # 2D Array
 
-2D Listeler adında olduğu gibi listelerin çoklu halidir. Öncelikler örnek bir koda bakalım;
+2D Array adında olduğu gibi listelerin çoklu halidir. Öncelikler örnek bir koda bakalım;
 
 ```js
 let yemek = ["pizza","hamburger","tavukdoner"]
@@ -134,3 +134,32 @@ print(ikilist)
 Bu kodun çıktısı şu şekilde olucaktır
 ```js
 [['pizza', 'hamburger', 'tavukdoner'], ['ayran', 'gazoz', 'cay']]
+
+# List
+
+List, array gibidir. Ama değildir. Kullanırken seçim size kalmış. Buarada array den daha çok özelliğe sahiptir.
+
+```py
+list = list(("Adana", "Ankara","Amasya"))
+``` 
+Yukarda gördüğünüz bir list dir. Gelin şimdi özelliklerine bakalım:
+
+`list.clear()` kodu tüm listeyi sıfırlar.
+
+`list.count("Amasya")` Kodu ise "Amasya" verisinin listede kaç tane olduğunu verir.
+
+`list.index("Amasya")` Kodu ise "Amasya" değerinin listede kaçıncı index olduğunu verir ama 1 kere çalışır ilk Amasya yı bulunca kod durur.
+
+`list.pop(2)` Kodu ise indexi 2 olan veriyi siler.
+
+`list.insert(1,"Mersin")` Kodu ise indexi verilen veriyi bir sonraki indexe gönderir yani zincirleme olur ve yeni veri verdiğimiz indexe yerleşir.
+
+`list.reverse()` Kodu ise listeyi terse çevirir.
+
+`list2 = list` Kodu ise list ile list2 tanımlarını birbirine eşitler. Yani list2 değişince list de değişir.
+
+`listkopyasi = list.copy()` Kodu ise yukarda anlattığımı önlemek içindir. Yani list tanımının tamamını listkopyasi na kopyalanır. Bunu list tanımını özelleştirme kodunun üstüne koyarsak anlamlı olur.
+
+`list.extend(list2)` Kodu ise list tanımına extradan list2 tanımını ekler.
+
+`list.sort()` Kodu ise listeyi Alfabetik yada sayısal olarak baştan sona sıralar.
