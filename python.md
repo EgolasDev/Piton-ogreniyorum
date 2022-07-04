@@ -21,7 +21,7 @@ Virgüllü sayıları yani float ları integer lar gibi tanımlarız ama en öne
 Örnek: `float = 9.1`
 
 # Substring
-Ek Bilgiler: float(), int() ve str() fonksiyonları ile değişkenleri tipini değişebiliriz. type() fonksiyonu ile değişkenlerin tipini anlayabiliriz.
+Ek Bilgiler: float(), int() ve str() fonksiyonları ile değişkenleri tipini değişebiliriz. type() fonksiyonu ile değişkenlerin tipini anlayabiliriz. Buarada `print()` fonksiyonu terminale çıktı göndermek için kullanılır.
 Örnek:
 
 ```js
@@ -105,16 +105,22 @@ text = input("Bu gün nasılsınız? ")
 print("Bu günki durumunuz: " + text)
 ```
 
-# Listeler
+# Array
 Listeler javascript'te array olarak geçiyordur. Peki nedir bu listeler gelin bir bakalım;<br>
 
-`list = ["ilk","ikinci","ucuncu"]`
+`array = ["ilk","ikinci","ucuncu"]`
 ilk, ikinci ve ucuncu'yü list değişkeni içine listeledik peki bunları nasıl çağıracağız?<br>
 
-`print(list[0])`
+`print(array[0])`
 0 yerine listedeki almak istediğiniz verinin indexini yazmalısınız. Index almayı bilmeyenler için en baştaki veriden başlayarak 0,1,2 diye devam eder.
 
-# 2D Listeler
+`array.append("dorduncu")`
+En sondan başlayarak veri ekler
+
+`array.remove("ilk")`
+"ilk" değerini sildi
+
+# 2D Array
 
 2D Listeler adında olduğu gibi listelerin çoklu halidir. Öncelikler örnek bir koda bakalım;
 
