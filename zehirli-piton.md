@@ -76,8 +76,8 @@ indexi 0 olan değeri verir.
 `array.append("dorduncu")`
 En sondan başlayarak veri ekler
 
-`array.remove("ilk")`
-"ilk" değerini sildi
+`array.remove("birinci")`
+"birinci" değerini sildi
 
 `list.clear()` tüm listeyi sıfırlar.
 
